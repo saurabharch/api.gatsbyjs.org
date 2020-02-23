@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
     "graphql": "^14.0.2",
-    "graphql-playground-middleware-express": "^1.7.6",
+    "graphql-playground-middleware-express": "^1.7.12",
     "graphql-tag": "^2.10.0",
     "jwks-rsa": "^1.2.1",
     "serverless-http": "^1.7.0",
