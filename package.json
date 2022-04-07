@@ -23,7 +23,7 @@
     "graphql-tag": "^2.10.0",
     "jwks-rsa": "^1.2.1",
     "serverless-http": "^1.7.0",
-    "winston": "^3.0.0"
+    "winston": "^3.3.0"
   },
   "prettier": {
     "singleQuote": true,
